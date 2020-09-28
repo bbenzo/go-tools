@@ -1,0 +1,29 @@
+{
+    "accountId": "A38253.f837c3ab353",
+    "amount": 28174.81,
+    "bookingText": "Re.-Nr. 4073494",
+    "currency": "EUR",
+    "mref": "DEzzz123123123123",
+    "sepaPurposeCode": "1",
+    "transactionId": "5ecd4d9bb9e14800012d99e9",
+    "transactionCode": 1,
+    "typeOfTransaction": "",
+    "typeOfDebit": "UNKNOWN",
+    "paymentPartner": {
+      "bic": "BIC1BIC2BIC3",
+      "creditorId": "DEzzz123123123123",
+      "iban": "DE11SOME22IBAN33",
+      "name": "Exoplode GmbH"
+    },
+    "purpose": "Re.-Nr. 4073494 daskjdask asdjkasd alsdkladks asldkas",
+    "tags": [
+      "variabel",
+      "earning",
+      "salary",
+      "fii",
+      "mist",
+      "quark"
+    ],
+    "bookingDate": 1579564800,
+    "valueDate": 1579564800
+}
